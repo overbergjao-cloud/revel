@@ -185,7 +185,7 @@
   // Fog tuning
   const WIPE_STRENGTH = 0.32;
   const CLEAN_THRESH = 0.12;
-  const FINISH_CLEAN_FRACTION = 0.97;
+  const FINISH_CLEAN_FRACTION = 0.985;
 
   const FOG_ALPHA_MAX = 0.95;
   const GRAIN = 18;
